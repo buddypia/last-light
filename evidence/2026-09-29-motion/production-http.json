@@ -1,0 +1,23 @@
+[
+  {
+    "url": "http://127.0.0.1:4187/index.html",
+    "status": 200,
+    "sameBytes": true,
+    "sha256": "7bd5dd9369426a5fb25b3a02bdb8261e7ec07d230f7d60bbe7d7c854382ff371",
+    "bytes": 6346
+  },
+  {
+    "url": "http://127.0.0.1:4187/assets/index-xB7Vwmz2.js",
+    "status": 200,
+    "sameBytes": true,
+    "sha256": "d50f73f19d3453d5e87094d92bf10215bc8de6161a2cc3195d5bc6a1c29dce24",
+    "bytes": 630796
+  },
+  {
+    "url": "http://127.0.0.1:4187/assets/index-zUJiSo00.css",
+    "status": 200,
+    "sameBytes": true,
+    "sha256": "1858f304a747d1bbb008b80cd8c2d930e4112ebc2ebb819337fd8e8074afb45c",
+    "bytes": 16028
+  }
+]

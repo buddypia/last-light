@@ -1,0 +1,23 @@
+[
+  {
+    "url": "http://127.0.0.1:4187/",
+    "status": 200,
+    "bytes": 6346,
+    "diskMatch": true,
+    "sha256": "35445215128d6b9da4738748489c7dae1f6aafc98588008eca6bf4d9df372c8d"
+  },
+  {
+    "url": "http://127.0.0.1:4187/assets/index-CTwNL9p3.js",
+    "status": 200,
+    "bytes": 616054,
+    "diskMatch": true,
+    "sha256": "672ecceba52e2f2d1924e060d35a43a8306ec72dee305e8cdffde03d1f6ccf02"
+  },
+  {
+    "url": "http://127.0.0.1:4187/assets/index-zUJiSo00.css",
+    "status": 200,
+    "bytes": 16028,
+    "diskMatch": true,
+    "sha256": "1858f304a747d1bbb008b80cd8c2d930e4112ebc2ebb819337fd8e8074afb45c"
+  }
+]

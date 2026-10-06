@@ -1,0 +1,23 @@
+[
+  {
+    "url": "/",
+    "status": 200,
+    "bytes": 4628,
+    "matches_dist": true,
+    "sha256": "cc3f4218d807dae2d0f9b85a9e0db803e78a6c077a3495a060fe4848173e510a"
+  },
+  {
+    "url": "/assets/index-BG3WPHjQ.js",
+    "status": 200,
+    "bytes": 581047,
+    "matches_dist": true,
+    "sha256": "0e4a9b2edc81cf79f6f2ecd38e9cce9729ba217c95021c521d00c14ea11b9673"
+  },
+  {
+    "url": "/assets/index-cV18TdOL.css",
+    "status": 200,
+    "bytes": 8176,
+    "matches_dist": true,
+    "sha256": "d3ce39356f496f44c4cc893037859eaf4699213b7d9f3a628b1f15de71f7cf28"
+  }
+]

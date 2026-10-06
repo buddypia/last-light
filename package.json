@@ -1,0 +1,39 @@
+{
+  "name": "last-light-survival",
+  "version": "1.0.0",
+  "description": "An original first-person 3D browser survival game built with Three.js and Web Audio API. 100% procedural, offline-first, zero external asset dependencies.",
+  "license": "MIT",
+  "author": "buddypia",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buddypia/last-light.git"
+  },
+  "homepage": "https://github.com/buddypia/last-light#readme",
+  "bugs": {
+    "url": "https://github.com/buddypia/last-light/issues"
+  },
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 4186 --strictPort",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 4186 --strictPort",
+    "test": "node --test tests/*.test.js"
+  },
+  "keywords": [
+    "survival-game",
+    "threejs",
+    "webgl",
+    "web-audio-api",
+    "browser-game",
+    "first-person",
+    "procedural-generation",
+    "offline-first"
+  ],
+  "dependencies": {
+    "three": "0.180.0"
+  },
+  "devDependencies": {
+    "vite": "7.3.6"
+  }
+}
